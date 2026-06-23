@@ -3,9 +3,7 @@
 ### Overview
 
 Code for : *Connecting models, networks and experiments: Revisiting the role of viruses in marine carbon cycling*.  
-Authors : M. Pruvôt, B. Haegeman, F. Joux, D. Demory.
-
-[![DOI](https://zenodo.org/badge/1154573909.svg)](https://doi.org/10.5281/zenodo.20813474)
+Authors : M. Pruvôt, B. Haegeman, F. Joux, D. Demory.[![DOI](https://zenodo.org/badge/1154573909.svg)](https://doi.org/10.5281/zenodo.20813474)
 
 The code is written in MATLAB. To run the analyses or generate the figures, ensure your current working directory is the folder containing code and data files.
 
